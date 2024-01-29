@@ -18,4 +18,4 @@
 - OpenStreetMap - kostenlos, aber: https://operations.osmfoundation.org/policies/tiles/
 
 Die MapOptions sowie andere Parameter/Controller wurden frei gewählt und können nach Belieben verändert werden.
-Bei fast allen Map-Providern wird verlangt, dass ihre diese im Impressum/Anhang angibt. Denkt bitte daran!
+Bei fast allen Map-Providern wird verlangt, dass ihre diese im Impressum/Anhang angibt. Das URLlauncher Package ist nicht erforderlich für die Maps.
